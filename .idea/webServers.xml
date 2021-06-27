@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="274adc4b-1f6f-4ed4-b493-c77ffe9ada74" name="nodejs">
+        <fileTransfer rootFolder="/root/apps/nodejsproject/nodejsproject" accessType="SFTP" host="165.22.93.208" port="22" sshConfigId="603fbb81-285b-4143-92bb-c1aff048dd0d" sshConfig="root@165.22.93.208:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
