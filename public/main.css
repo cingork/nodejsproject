@@ -4,8 +4,9 @@
   box-sizing: border-box;
 }
 html {
-  margin:0;
+  margin:auto;
   scroll-behavior: smooth;
+  align-items: center;
 }
 
 body {
@@ -161,5 +162,11 @@ header:before {
 @media (max-width: 768px) {
   .nav-item {
     text-align: center;
+  }
+  .welcome-message{
+    font-size: 1rem;
+  }
+  header{
+  background-position-y: center ;
   }
 }
