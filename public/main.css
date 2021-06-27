@@ -157,3 +157,9 @@ header:before {
 .groupp{
   list-style-type: none;
 }
+
+@media (max-width: 768px) {
+  .nav-item {
+    text-align: center;
+  }
+}
