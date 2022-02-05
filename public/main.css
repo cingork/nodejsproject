@@ -17,7 +17,7 @@ body {
 header {
   background-image:linear-gradient(rgba(0,168,255,0.05), rgba(0,168,255,0.05)), url("vector-developer.png");
   background-repeat: no-repeat;
-  height: 800px;
+  height: 70vh;
   background-size: contain;
   background-position-x:center;
   clip-path:polygon(100% 0%, 100% 75%, 50% 100%,0 75%, 0 0);
