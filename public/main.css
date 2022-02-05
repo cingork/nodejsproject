@@ -159,7 +159,7 @@ header:before {
   .welcome-message{
     font-size: 1rem;
   }
-  header{
-  background-position-y: center ;
+  .main-hader {
+    height:50vh;
   }
 }
